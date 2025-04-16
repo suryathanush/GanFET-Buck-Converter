@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BAT46WJ,115")(type "KiCad")(uri "${KIPRJMOD}/LIB_BAT46WJ,115")(options "")(descr "SODFL2512X80N"))
+  (lib (name "EPC2001C")(type "KiCad")(uri "${KIPRJMOD}/LIB_EPC2001C")(options "")(descr ""))
+  (lib (name "LMG1210")(type "KiCad")(uri "${KIPRJMOD}/LIB_LMG1210RVRT")(options "")(descr ""))
+  (lib (name "SN74LVC2G17DBVR")(type "KiCad")(uri "${KIPRJMOD}/LIB_SN74LVC2G17DBVR")(options "")(descr ""))
+  (lib (name "YFF18PW0J474M")(type "KiCad")(uri "${KIPRJMOD}/LIB_YFF18PW0J474MT0H0N")(options "")(descr ""))
+)

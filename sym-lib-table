@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LMG1210")(type "KiCad")(uri "${KIPRJMOD}/LIB_LMG1210RVRT/LMG1210RVRT.kicad_sym")(options "")(descr "Half Bridge GANFET driver"))
+  (lib (name "SN74LVC2G17DBVR")(type "KiCad")(uri "${KIPRJMOD}/LIB_SN74LVC2G17DBVR/SN74LVC2G17DBVR.kicad_sym")(options "")(descr "Schmitt Trigger Buffer 2-CH Non-Inverting CMOS 6-Pin SOT-23 T/R"))
+  (lib (name "BAT46WJ,115")(type "KiCad")(uri "${KIPRJMOD}/LIB_BAT46WJ,115/BAT46WJ_115.kicad_sym")(options "")(descr "Diode, Schottky, 100 V, 0.25 A, SOD-323F"))
+  (lib (name "EPC2001C")(type "KiCad")(uri "${KIPRJMOD}/LIB_EPC2001C/EPC2001C.kicad_sym")(options "")(descr "GANFET TRANS 100V 36A BUMPED DIE Enhancement Mode Power Transistor"))
+  (lib (name "Raspi-Pico")(type "KiCad")(uri "${KIPRJMOD}/LIB_RP-Pico/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr "Raspi-Pico"))
+  (lib (name "YFF18PW0J474MT")(type "KiCad")(uri "${KIPRJMOD}/LIB_YFF18PW0J474MT0H0N/YFF18PW0J474MT0H0N.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC2G17DBVR
+D DUAL SCHMITT-TRIGGER BUFFER
+K
+F http://www.ti.com/lit/gpn/sn74lvc2g17
+$ENDCMP
+#
+#End Doc Library

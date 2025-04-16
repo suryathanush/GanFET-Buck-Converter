@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HVP012A.PcbDoc   6/4/2018  1:00:10 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HVP012A.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      7mil (0.178mm)                                            Round             71        PTH        3.88inch (98.48mm)
+T2      8mil (0.2mm)                                              Round             4         PTH        0.16inch (4.12mm)
+T3      12mil (0.305mm)                                           Round             116       PTH        13.37inch (339.54mm)
+T4      32mil (0.813mm)                                           Round             6         PTH        1.83inch (46.48mm)
+T5      39mil (1mm)                                               Round             4         PTH        0.30inch (7.62mm)
+T6      40mil (1.016mm)                                           Round             8         PTH        4.51inch (114.63mm)
+T7      42mil (1.067mm)                                           Round             6         PTH        1.40inch (35.55mm)
+T8      51mil (1.3mm)                                             Round             2         PTH        0.10inch (2.54mm)
+T9      55mil (1.4mm)                                             Round             4         PTH        1.54inch (39.18mm)
+T10     63mil (1.6mm)                                             Round             5         PTH        3.68inch (93.50mm)
+T11     126mil (3.2mm)                                            Round             4         PTH        5.41inch (137.29mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              230
+
+Total Processing Time (hh:mm:ss) : 00:00:00

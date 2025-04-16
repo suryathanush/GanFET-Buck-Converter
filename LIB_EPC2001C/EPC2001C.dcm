@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPC2001C
+D GANFET TRANS 100V 36A BUMPED DIE Enhancement Mode Power Transistor
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-8/147056.pdf
+$ENDCMP
+#
+#End Doc Library

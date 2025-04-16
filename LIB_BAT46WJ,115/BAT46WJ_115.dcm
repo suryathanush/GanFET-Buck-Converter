@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT46WJ,115
+D NEXPERIA - BAT46WJ,115 - DIODE, SWITCHING, 100V, SC-90
+K
+F https://assets.nexperia.com/documents/data-sheet/BAT46WJ.pdf
+$ENDCMP
+#
+#End Doc Library

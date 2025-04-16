@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMG1210RVRT
+D 200V, 1.5A/3A Half bridge MOSFET and GaN FET driver with adjustable dead-time
+K
+F http://www.ti.com/lit/gpn/LMG1210
+$ENDCMP
+#
+#End Doc Library

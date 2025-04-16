@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model YFF18PW0J474MT0H0N
+#/1316402/526410/2.50/4/2/Filter
+DEF YFF18PW0J474MT0H0N FL 0 30 Y Y 1 F N
+F0 "FL" 1250 700 50 H V L CNN
+F1 "YFF18PW0J474MT0H0N" 1250 600 50 H V L CNN
+F2 "YFF18PW0J474MT0H0N" 1250 500 50 H I L CNN
+F3 "https://product.tdk.com/system/files/dam/doc/product/emc/emc/3tf/catalog/3tf_commercial_power_yff-p_en.pdf" 1250 400 50 H I L CNN
+F4 "3-terminal Filters, Insertion Loss=40dB (2MHz to 2000MHz), LxWxT: 1.6x0.8x0.6mm" 1250 300 50 H I L CNN "Description"
+F5 "0.7" 1250 200 50 H I L CNN "Height"
+F6 "TDK" 1250 100 50 H I L CNN "Manufacturer_Name"
+F7 "YFF18PW0J474MT0H0N" 1250 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "810-YFF18PW0J474M" 1250 -100 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TDK/YFF18PW0J474MT0H0N?qs=LtAzLad%252BoeXEF24u1PKuUA%3D%3D" 1250 -200 50 H I L CNN "Mouser Price/Stock"
+F10 "YFF18PW0J474MT0H0N" 1250 -300 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/yff18pw0j474mt0h0n/tdk?region=nac" 1250 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X IN/OUT 1 0 0 200 R 50 50 0 0 P
+X GND_1 2 700 -700 200 U 50 50 0 0 P
+X OUT/IN 3 1400 0 200 L 50 50 0 0 P
+X GND_2 4 700 700 200 D 50 50 0 0 P
+P 5 0 1 6 200 500 1200 500 1200 -500 200 -500 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library

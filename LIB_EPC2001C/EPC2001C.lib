@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EPC2001C
+#/3063124/526410/2.50/11/4/Transistor
+DEF EPC2001C Q 0 30 Y Y 1 F N
+F0 "Q" 1150 300 50 H V L CNN
+F1 "EPC2001C" 1150 200 50 H V L CNN
+F2 "EPC2001C" 1150 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/dk/DKDS-8/147056.pdf" 1150 0 50 H I L CNN
+F4 "GANFET TRANS 100V 36A BUMPED DIE Enhancement Mode Power Transistor" 1150 -100 50 H I L CNN "Description"
+F5 "0.815" 1150 -200 50 H I L CNN "Height"
+F6 "Efficient Power Conversion" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "EPC2001C" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "EPC2001C" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/epc2001c/efficient-power-conversion-corporation" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X G 1 0 0 200 R 50 50 0 0 P
+X SUBSTRATE 2 0 -100 200 R 50 50 0 0 P
+X D_1 3 0 -200 200 R 50 50 0 0 P
+X S_1 4 0 -300 200 R 50 50 0 0 P
+X D_2 5 0 -400 200 R 50 50 0 0 P
+X S_2 6 0 -500 200 R 50 50 0 0 P
+X D_3 7 1300 0 200 L 50 50 0 0 P
+X S_3 8 1300 -100 200 L 50 50 0 0 P
+X D_4 9 1300 -200 200 L 50 50 0 0 P
+X S_4 10 1300 -300 200 L 50 50 0 0 P
+X D_5 11 1300 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
