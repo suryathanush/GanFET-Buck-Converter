@@ -6130,6 +6130,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "PE1206DRM7W0R01L"
+			(at 252.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b2c5ead-326d-4755-a865-75c00aa848eb")
 		)
@@ -6201,6 +6210,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "1548128"
+			(at 265.43 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bbfea8f9-03ba-4a2f-aec3-c8a9e14fe915")
 		)
@@ -6262,6 +6280,15 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 248.92 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5274"
 			(at 248.92 113.03 0)
 			(effects
 				(font
@@ -6403,6 +6430,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5278"
+			(at 86.36 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "978384dc-3c84-44cb-9a3c-cf063096496b")
 		)
@@ -6462,6 +6498,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 194.31 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RCG06030000Z0EA"
 			(at 194.31 116.84 0)
 			(effects
 				(font
@@ -6540,6 +6585,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5273"
+			(at 194.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cac9de9c-226d-491d-806f-1930e11ca9e5")
 		)
@@ -6599,6 +6653,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 148.59 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C190GKT"
 			(at 148.59 170.18 0)
 			(effects
 				(font
@@ -6743,6 +6806,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5270"
+			(at 176.53 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4422aabd-f728-4196-9751-44490889ee2e")
 		)
@@ -6800,6 +6872,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
+			(at 67.31 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "HTSW-102-07-T-S"
 			(at 67.31 86.36 0)
 			(effects
 				(font
@@ -6870,6 +6951,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 134.62 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5270"
 			(at 134.62 54.61 0)
 			(effects
 				(font
@@ -7009,6 +7099,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "PE1206DRM7W0R01L"
+			(at 226.06 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f10e80d-d9a1-49e2-aa28-bce830da75f1")
 		)
@@ -7079,6 +7178,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B104JB8NNND"
+			(at 217.17 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "54c14858-be82-47d1-ae37-607b7653f030")
 		)
@@ -7141,6 +7249,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 194.31 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RCG06030000Z0EA"
 			(at 194.31 139.7 0)
 			(effects
 				(font
@@ -7285,6 +7402,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YFF18PW0J474MT0H0N"
+			(at 128.27 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bf26abaf-c7f2-4d90-b858-91e076f7aa89")
 		)
@@ -7308,8 +7434,8 @@
 		(at 77.47 63.5 0)
 		(mirror y)
 		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
+		(exclude_from_sim no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3b110556-a686-4290-9415-dff7b90b2338")
@@ -7348,6 +7474,15 @@
 			)
 		)
 		(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
+			(at 77.47 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PH1-03-UA"
 			(at 77.47 63.5 0)
 			(effects
 				(font
@@ -7428,6 +7563,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5277"
+			(at 232.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f25479d-47c6-40bc-a919-30f5447f2be1")
 		)
@@ -7487,6 +7631,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A106MA8NRNC"
 			(at 176.53 67.31 0)
 			(effects
 				(font
@@ -7625,6 +7778,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A106MA8NRNC"
 			(at 226.06 140.97 0)
 			(effects
 				(font
@@ -7872,6 +8034,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LTST-C190GKT"
+			(at 134.62 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bd581de7-6f72-4f62-b496-0bceb4d3ed8e")
 		)
@@ -8085,6 +8256,15 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 222.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5277"
 			(at 222.25 113.03 0)
 			(effects
 				(font
@@ -8494,6 +8674,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5270"
+			(at 229.87 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d85d1d8-d20c-40da-a562-6c5810a33a2f")
 		)
@@ -8627,6 +8816,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B104JB8NNND"
+			(at 81.28 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "866dda73-ec3e-426a-9940-55b81e3f93df")
 		)
@@ -8689,6 +8887,15 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 177.8 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "3296W-1-105LF"
 			(at 177.8 125.73 0)
 			(effects
 				(font
@@ -8770,6 +8977,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RT0603FRE0720KL"
+			(at 46.99 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8016bc56-58ef-43b8-8d6b-9147202c1e64")
 		)
@@ -8832,6 +9048,15 @@
 			)
 		)
 		(property "Description" "Feedthrough capacitor"
+			(at 179.07 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YFF18PW0J474MT0H0N"
 			(at 179.07 85.09 0)
 			(effects
 				(font
@@ -8911,6 +9136,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "HTSW-102-07-T-S"
+			(at 176.53 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e286d9e4-9be4-4152-b454-0a6021e2c92f")
 		)
@@ -8973,6 +9207,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 46.99 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0603FRE0720KL"
 			(at 46.99 95.25 0)
 			(effects
 				(font
@@ -9183,6 +9426,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5278"
+			(at 86.36 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "458a2c1b-683c-48cd-b704-691fc6caf9bd")
 		)
@@ -9242,6 +9494,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 120.65 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C190GKT"
 			(at 120.65 170.18 0)
 			(effects
 				(font
@@ -9320,6 +9581,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5273"
+			(at 194.31 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce109009-6e7a-4d08-9b28-671c2e3b4ee2")
 		)
@@ -9377,6 +9647,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
+			(at 68.58 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "HTSW-102-07-T-S"
 			(at 68.58 127 0)
 			(effects
 				(font
@@ -9446,6 +9725,15 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 259.08 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5274"
 			(at 259.08 113.03 0)
 			(effects
 				(font
@@ -9855,6 +10143,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10A106MA8NRNC"
+			(at 229.87 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1de1a98-a566-4a45-ac23-7149158cb2f2")
 		)
@@ -10057,6 +10354,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "3296W-1-105LF"
+			(at 165.1 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0a961bbb-cce4-4485-89c6-ffca178f9067")
 		)
@@ -10130,6 +10436,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B104JB8NNND"
+			(at 217.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "875c92fb-a868-4ba8-82f6-70407b563219")
 		)
@@ -10192,6 +10507,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 147.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A106MA8NRNC"
 			(at 147.32 60.96 0)
 			(effects
 				(font
@@ -10507,6 +10831,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "PE1206DRM7W0R01L"
+			(at 207.01 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9936fc3a-a457-40af-a78c-e512f76161bf")
 		)
@@ -10577,6 +10910,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RT0603FRE0720KL"
+			(at 165.1 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f9855fc-c2ac-4d82-b98f-fbd2e8588031")
 		)
@@ -10637,6 +10979,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 96.52 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RCG06030000Z0EA"
 			(at 96.52 100.33 0)
 			(effects
 				(font
@@ -10783,6 +11134,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RT0603FRE0720KL"
+			(at 177.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77acbe2f-cbbd-4b6f-9979-f61d6b1161d3")
 		)
@@ -10845,6 +11205,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 237.49 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10B104JB8NNND"
 			(at 237.49 140.97 0)
 			(effects
 				(font
@@ -10991,6 +11360,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5270"
+			(at 228.6 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26ca8b54-c7a2-4762-a4ed-b8def235ebc5")
 		)
@@ -11058,6 +11436,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "PH1-04-UA"
+			(at 24.13 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "2aa19860-2ad0-4fc3-bc70-9d437fec4dd5")
 		)
@@ -11107,7 +11494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.9"
 			(at 249.8852 144.78 0)
 			(effects
 				(font
@@ -11126,6 +11513,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 248.92 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "865080545012"
 			(at 248.92 140.97 0)
 			(effects
 				(font
@@ -11336,6 +11732,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RT0603FRE07100KL"
+			(at 134.62 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12c3514d-81fd-41b9-9932-a79cbb266ac5")
 		)
@@ -11408,6 +11813,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "1548128"
+			(at 207.01 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f53c81f1-bad3-4ba6-9a95-77fa147f5127")
 		)
@@ -11470,6 +11884,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0603FRE131KL"
 			(at 120.65 161.29 0)
 			(effects
 				(font
@@ -11820,6 +12243,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "HTSW-102-07-T-S"
+			(at 153.67 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "703d1730-56de-4f50-8df4-23197fe01c55")
 		)
@@ -11948,6 +12380,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 125.73 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5278"
 			(at 125.73 54.61 0)
 			(effects
 				(font
@@ -12220,6 +12661,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5271"
+			(at 93.98 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6a52054-af56-4d41-9754-daff14d476da")
 		)
@@ -12276,6 +12726,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 96.52 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RCG06030000Z0EA"
 			(at 96.52 105.41 0)
 			(effects
 				(font
@@ -12354,6 +12813,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10A106MA8NRNC"
+			(at 229.87 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4bb1bc6b-ccba-4322-8314-883ac84f482d")
 		)
@@ -12416,6 +12884,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 148.59 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0603FRE07100KL"
 			(at 148.59 161.29 0)
 			(effects
 				(font
@@ -12628,6 +13105,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "1548128"
+			(at 152.4 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2241debe-ce24-4ac6-99ab-6be3d8fc98aa")
 		)
@@ -12832,6 +13318,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "5271"
+			(at 115.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48280b36-1c51-4752-ac80-882a6586e090")
 		)
@@ -12892,6 +13387,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 240.03 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1548128"
 			(at 240.03 127 0)
 			(effects
 				(font

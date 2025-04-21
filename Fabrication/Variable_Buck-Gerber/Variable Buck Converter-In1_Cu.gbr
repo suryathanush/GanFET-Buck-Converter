@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.9-8.0.9-0~ubuntu22.04.1*%
-%TF.CreationDate,2025-04-21T10:33:26+05:30*%
+%TF.CreationDate,2025-04-21T19:02:19+05:30*%
 %TF.ProjectId,Variable Buck Converter,56617269-6162-46c6-9520-4275636b2043,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Inr*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.9-8.0.9-0~ubuntu22.04.1) date 2025-04-21 10:33:26*
+G04 Created by KiCad (PCBNEW 8.0.9-8.0.9-0~ubuntu22.04.1) date 2025-04-21 19:02:19*
 %MOMM*%
 %LPD*%
 G01*
@@ -34,14 +34,6 @@ G04 APERTURE LIST*
 %TD*%
 G04 APERTURE END LIST*
 D10*
-%TO.N,Net-(J4-Pin_1)*%
-%TO.C,TP15*%
-X125200000Y-102230000D03*
-%TD*%
-%TO.N,/Buck Converter/HS*%
-%TO.C,TP14*%
-X118400000Y-102230000D03*
-%TD*%
 %TO.N,/Buck Converter/HS*%
 %TO.C,TP3*%
 X119320000Y-94420000D03*
@@ -59,6 +51,10 @@ D12*
 X96085000Y-91030000D03*
 %TD*%
 D10*
+%TO.N,/Buck Converter/HS*%
+%TO.C,TP14*%
+X118400000Y-102230000D03*
+%TD*%
 %TO.N,+Vin_Buck*%
 %TO.C,TP10*%
 X116480000Y-76240000D03*
@@ -72,6 +68,10 @@ D12*
 X107405000Y-76310000D03*
 %TD*%
 D10*
+%TO.N,Net-(J4-Pin_1)*%
+%TO.C,TP15*%
+X125200000Y-102230000D03*
+%TD*%
 %TO.N,Net-(C10-Pad1)*%
 %TO.C,TP11*%
 X116480000Y-82470000D03*

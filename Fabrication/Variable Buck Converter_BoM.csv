@@ -1,0 +1,43 @@
+Reference,Value,Footprint,Qty,Manufacturer_Part_Number
+TP6,V_in,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5270
+TP7,5V,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5270
+"TP10,TP11",TestPoint_Probe,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,2,5270
+TP3,HS,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5271
+TP4,GND,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5271
+TP8,HO,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5273
+TP9,LO,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5273
+"TP12,TP13",TestPoint_Probe,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,2,5274
+"TP14,TP15",TestPoint_Probe,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,2,5277
+TP1,EN,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5278
+TP2,PWM,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5278
+TP5,HB,TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,5278
+J2,Vin_IC,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",1,1548128
+J3,Vin_Buck,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",1,1548128
+J4,Inductor,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",1,1548128
+J5,Output_Terminal,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",1,1548128
+C14,100uF,Capacitor_SMD:CP_Elec_6.3x5.9,1,865080545012
+"POT1,POT2",1M,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,2,3296W-1-105LF
+D1,"BAT46WJ,115","BAT46WJ,115:SODFL2512X80N",1,"BAT46WJ,115"
+"C1,C5,C6,C8,C12,C13",10uF,Capacitor_SMD:C_0603_1608Metric,6,CL10A106MA8NRNC
+"C2,C3,C9,C10,C11",0.1uF,Capacitor_SMD:C_0603_1608Metric,5,CL10B104JB8NNND
+"Q1,Q2",EPC2001C,EPC2001C:EPC2001C,2,EPC2001C
+JP1,5V_Bypass,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,HTSW-102-07-T-S
+JP2,EN_Bypass,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,HTSW-102-07-T-S
+JP3,PWM_Bypass,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,HTSW-102-07-T-S
+JP5,DLH/5V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,HTSW-102-07-T-S
+JP6,Supply-Bypass,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,HTSW-102-07-T-S
+IC2,LMG1210RVRT,LMG1210:LMG1210RVRT,1,LMG1210RVRT
+"D2,D3,D4",LED,LED_SMD:LED_0603_1608Metric,3,LTST-C190GKT
+"R13,R14,R16",0.01R,Resistor_SMD:R_1206_3216Metric,3,PE1206DRM7W0R01L
+JP4,3v3/5v JP,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,PH1-03-UA
+J1,EN/PWM Header,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,PH1-04-UA
+J6,RASPI Socket 1,Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,1,PH1-20-UA
+J7,RASPI Socket 2,Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,1,PH1-20-UA
+"R5,R6,R11,R12",0R,Resistor_SMD:R_0603_1608Metric,4,RCG06030000Z0EA
+R2,18K,Resistor_SMD:R_0603_1608Metric,1,RT0603BRD0718KL
+R1,91K,Resistor_SMD:R_0603_1608Metric,1,RT0603BRD0791KL
+R7,1K,Resistor_SMD:R_0603_1608Metric,1,RT0603FRE131KL
+"R3,R4,R9,R10",20K,Resistor_SMD:R_0603_1608Metric,4,RT0603FRE0720KL
+"R8,R15",100K,Resistor_SMD:R_0603_1608Metric,2,RT0603FRE07100KL
+IC1,SN74LVC2G17DBVR,SN74LVC2G17DBVR:SOT95P280X145-6N,1,SN74LVC2G17DBVR
+"C4,C7",0.47uF,YFF18PW0J474M:YFF18PW0J474MT0H0N,2,YFF18PW0J474MT0H0N

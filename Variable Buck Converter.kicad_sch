@@ -2964,6 +2964,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10B104JB8NNND"
+			(at 144.78 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c9e85a6-c1db-4502-8517-e58b7181949e")
 		)
@@ -3500,6 +3509,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "HTSW-102-07-T-S"
+			(at 125.73 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7edfce93-3605-479b-86cd-c3ed73096dd7")
 		)
@@ -3588,7 +3606,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "75353ba1-87fa-4052-be87-7604a8dfc54c")
 		(property "Reference" "U1"
@@ -3961,6 +3979,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RT0603BRD0718KL"
+			(at 157.48 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbf69c7b-650d-4d20-9dc9-5e0a6114c6bf")
 		)
@@ -4099,6 +4126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "PH1-20-UA"
+			(at 109.22 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "d99a0075-c93b-4560-8b73-f9d4abf97f8b")
 		)
@@ -4223,6 +4259,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL10A106MA8NRNC"
+			(at 116.84 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12dc940d-7113-4a27-8093-172c02c62662")
 		)
@@ -4285,6 +4330,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 157.48 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0603BRD0791KL"
 			(at 157.48 96.52 0)
 			(effects
 				(font
@@ -4421,6 +4475,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated"
+			(at 63.5 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PH1-20-UA"
 			(at 63.5 105.41 0)
 			(effects
 				(font
