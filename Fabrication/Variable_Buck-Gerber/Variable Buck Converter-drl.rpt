@@ -1,0 +1,28 @@
+Drill report for Variable Buck Converter.kicad_pcb
+Created on 2025-04-21T10:33:35+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'Variable Buck Converter-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (111 holes)
+    T2  0.800mm  0.0315"  (6 holes)
+    T3  1.000mm  0.0394"  (57 holes)
+    T4  1.300mm  0.0512"  (8 holes)
+    T5  1.600mm  0.0630"  (15 holes)
+
+    Total plated holes count 197
+
+
+Drill file 'Variable Buck Converter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
