@@ -5,12 +5,12 @@
 
 ## Flashing Instructions
 1. Press the BOOTSEL button and hold it while you connect the other end of the micro USB cable to your computer
-![Raspi Pico BOOTSEL button](https://projects-static.raspberrypi.org/projects/getting-started-with-the-pico/a4b9c4b85a24ac8e9c84297248f1508286855f10/en/images/Pico-bootsel.png)
+![Raspi Pico BOOTSEL button](images/Pico-bootsel.png)
 
 2. The Board will show up as "RPI-RP2" Filesystem / Folder in files manager
 ![Raspi Pico filesystem](images/RPI_filesystem.png)
 
-3. Copy the Firmware file "buck_controller_Frimware_V1.uf2" and paste it in the Filesystem
+3. Copy the Firmware file [buck_controller_Frimware_V1.uf2](buck_controller_Frimware_V1.uf2) and paste it in the Filesystem
 ![Raspi Pico filesystem](images/RPI_filesystem_firmware.png)
 
 4. after Copying is done, Un-plug ad Plug the USB (Power Restart)
