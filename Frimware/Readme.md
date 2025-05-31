@@ -17,3 +17,6 @@
 
 5. if you see a fast blinking LED for 5 Seconds followed by a Continous Slow blinking, then Firmware flash is successful
 ![Raspi Pico LED flashing](images/plug.gif)
+
+
+## Refer [FIRMWARE GUIDE](Firmware_usage.md) for firmware usage instructions
